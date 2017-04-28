@@ -1,0 +1,19 @@
+{
+    "name": "gboddin/psk-validator",
+    "description": "Pre-shared key time based signature validtor",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Gregory Boddin",
+            "email": "gregory@siwhine.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gbo\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
